@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "803478770714",
+    "firebase_url": "https://savvy-home-7a2fd.firebaseio.com",
+    "project_id": "savvy-home-7a2fd",
+    "storage_bucket": "savvy-home-7a2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803478770714:android:3fc50114764e9a3d",
+        "android_client_info": {
+          "package_name": "com.iot.savvyhome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803478770714-drh6sjl07sq4pfmc2kboq2fbvge383fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iot.savvyhome",
+            "certificate_hash": "8f03db22a933c7ea993a5d64d4b4aff442358d70"
+          }
+        },
+        {
+          "client_id": "803478770714-np862s82rh2g2rjni86kleil2v2uaokk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudkrrguOl3IhRMNIS7if7acZeqkHXhDI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803478770714-np862s82rh2g2rjni86kleil2v2uaokk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
